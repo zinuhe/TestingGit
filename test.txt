@@ -1,2 +1,6 @@
 1 uno
 2 dos
+20 veinte
+21 veinteuno
+22 veintedos
+23 veintetres
